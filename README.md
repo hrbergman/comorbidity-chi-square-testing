@@ -10,6 +10,4 @@ A statistical study testing whether patient weight status is associated with six
 
 [Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
 | 
-[Slideshow](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-slideshow.pdf)
-| 
-[Video Presentation](https://www.youtube.com/watch?v=2FI8G_kEFqw&feature=youtu.be)
+[Video Presentation](https://youtu.be/jKOE0cG68rc)
