@@ -8,6 +8,6 @@ A statistical study testing whether patient weight status is associated with six
 - Produced univariate and bivariate visualizations, including distributions, violin plots, and box plots
 - Recommended more granular data collection (BMI categories and condition subtypes) to address limits of the binary "overweight" field
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/comorbidity-chi-square-testing/blob/main/comorbidity-chi-square-testing/eda-documentation.pdf)
 | 
 [Video Presentation](https://youtu.be/jKOE0cG68rc)
